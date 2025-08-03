@@ -15,13 +15,14 @@ import {
 
 // Your Firebase project configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB8sZpUcVRndumNnn3AWE_GdOZcRyj7xD8",
-  authDomain: "college-bus-tracker-6ae90.firebaseapp.com",
-  projectId: "college-bus-tracker-6ae90",
-  storageBucket: "college-bus-tracker-6ae90.appspot.com",
-  messagingSenderId: "540185148677",
-  appId: "1:540185148677:web:926d2a4b14c093ee6d0b6c"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
