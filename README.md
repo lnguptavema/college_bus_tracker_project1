@@ -14,6 +14,8 @@
 
 👉 [Visit the live app](https://college-bus-tracker-6ae90.web.app)
 
+url:- https://college-bus-tracker-6ae90.web.app
+
 ### 📦 Tech Stack
 
 - HTML, CSS, JavaScript
